@@ -1,2 +1,3 @@
 # Roblox_http
-Something made by dissatisfaction with roblox's http acquisition
+因为那时候不爽官方的写法所以自己写的一个玩意
+**此项目以弃坑，但如果你想作为修改自用或者发送请求合并都是可以的**
